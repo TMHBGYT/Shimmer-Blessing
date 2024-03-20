@@ -1,0 +1,7 @@
+name: "shimmer"
+displayName: "Shimmers blessing"
+author: Inkis
+description: "WIP"
+version: Beta
+minGameVersion: 145.1
+dependencies: ["multi-crafter"]

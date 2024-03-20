@@ -1,0 +1,23 @@
+{
+    type: CoreBlock,
+    name: Core Fragment,
+    description: A core
+    details: A core
+    size: 3,
+    health: 3500,
+    armor: 1
+	itemCapacity: 3500,
+    researchCost: [ ]
+	research: {
+     planet: prismara
+     root: true
+     name: Prismara
+     requiresUnlock: false
+	}
+     requirements: [
+        shimmersteel/500,
+    ],
+    category: effect,
+    unitType: alpha,
+    unitCapModifier: 30
+}
